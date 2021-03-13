@@ -9,11 +9,11 @@ This project involved deploying a static website using AWS
 - Step 4: Configured S3 bucket
 - Step 5: Distributed Website via CloudFront CDN
 
-Website URL: [Link](https://d3gf32qxkjbkzs.cloudfront.net)
+Website URL: https://d3gf32qxkjbkzs.cloudfront.net
 
-Website Endpoint: [Link](http://udacity-cloud-developer-tt.s3-website.ap-south-1.amazonaws.com)
+Website Endpoint: http://udacity-cloud-developer-tt.s3-website.ap-south-1.amazonaws.com
 
-S3 Object URL: [https://udacity-cloud-developer-tt.s3.ap-south-1.amazonaws.com/index.html]
+S3 Object URL: https://udacity-cloud-developer-tt.s3.ap-south-1.amazonaws.com/index.html
 <br>
 <br>
 
