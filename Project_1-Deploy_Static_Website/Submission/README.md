@@ -1,4 +1,4 @@
-# Cloud Developer ND - Deploy Static Website on AWS Project Submission
+# Deploy Static Website on AWS - Project Submission
 
 This project involved deploying a static website using AWS
 
